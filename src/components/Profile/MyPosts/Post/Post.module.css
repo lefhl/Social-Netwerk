@@ -1,7 +1,10 @@
 .item {
   color: black;
 }
-.item img {
+.avatar {
+  height: 60px;
   width: 60px;
+  background-image: url('https://klike.net/uploads/posts/2019-03/1551511784_4.jpg');
+  background-size: cover;
   border-radius: 50%;
 }
