@@ -1,0 +1,12 @@
+.ava {
+  width: 60px;
+  border-radius: 50%;
+}
+.active_page {
+  font-weight: bold;
+}
+.pages {
+  padding-right: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
